@@ -22,7 +22,7 @@ JEPVERSION = "3.1.3"
 
 
 if Config.UPSTREAM_REPO == "jepthoniq":
-    UPSTREAM_REPO_URL = "https://github.com/jsbsjv/Usbsjsbssj/tree/main"
+    UPSTREAM_REPO_URL = "https://github.com/jsbsjv/REQS"
 else:
     UPSTREAM_REPO_URL = Config.UPSTREAM_REPO
 
